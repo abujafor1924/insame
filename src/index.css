@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.large-number {
+     font-size: 138px;
+     line-height: 120px;
+ }
